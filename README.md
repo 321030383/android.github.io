@@ -7,7 +7,7 @@ Este repositorio contiene una recopilación de temas esenciales para el desarrol
 ## Archivos incluidos
 
 - `temas-android.txt`: Temas en texto plano.
-- `temas-android.pdf`: Documento en formato PDF.
+  [archipdfand](https://github.com/321030383/android.github.io/blob/main/AndroidIntro.pdf)
 - `imagen-android.png`: Imagen representativa.
 - `README.md`: Este archivo de documentación.
 
